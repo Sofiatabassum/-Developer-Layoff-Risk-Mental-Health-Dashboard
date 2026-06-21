@@ -37,13 +37,13 @@ primary_language, ai_tools_usage_hours_per_week
 
 📊 Dashboard Pages
 
+
+<img width="1458" height="802" alt="Image" src="https://github.com/user-attachments/assets/2bf9354a-93da-40dd-a9d5-f08d436fc5f9" />
+
+
+
 Page 1 — Summary
-
-
 High-level overview of the developer workforce
-
-
-
 
 KPI Cards: Total Developers, High Layoff Risk Count, % Mentally Exhausted, % Likely to Switch
 Gender Distribution — Donut chart
