@@ -176,15 +176,6 @@ ToolPurposePower BI DesktopDashboard building & visualizationPower QueryData cle
  ┗ 📝 README.md                     # Project documentation
 
 
-🚀 How to Use
-
-
-Clone or download this repository
-Open layoff_data_analysis.pbix in Power BI Desktop
-If data doesn't load, go to Home → Transform Data → Data Source Settings and update the path to layoff_data.csv on your local machine
-Explore all 4 pages of the dashboard
-
-
 
 👩‍💻 Author
 
@@ -192,4 +183,4 @@ Sofia Tabassum
 
 Aspiring Data Analyst | Power BI | SQL | Python
 
-📍 Mumbai, India
+📍Raigarh, Chhattisgarh , India
