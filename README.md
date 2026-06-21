@@ -2,6 +2,14 @@
 
 Power BI Dashboard Project
 
+<img width="1458" height="802" alt="Image" src="https://github.com/user-attachments/assets/9b4a6bfd-b890-47d9-95ec-f873ce59f761" />
+
+<img width="1380" height="802" alt="Image" src="https://github.com/user-attachments/assets/09561009-f2f6-49f0-ac87-06f9625555ec" />
+
+<img width="1397" height="793" alt="Image" src="https://github.com/user-attachments/assets/e72b2aad-88b1-410a-9447-ad4069e98836" />
+
+<img width="1393" height="811" alt="Image" src="https://github.com/user-attachments/assets/c33d8429-75b6-4425-a5ef-154c3ec7f9d1" />
+
 
 📌 Project Overview
 
