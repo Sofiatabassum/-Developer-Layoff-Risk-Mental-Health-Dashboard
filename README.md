@@ -56,11 +56,12 @@ Job Role Distribution — Bar chart
 Page 2 — Mental Health & Burnout
 
 
+
+<img width="1380" height="802" alt="Image" src="https://github.com/user-attachments/assets/8d9b2f30-d7e5-449d-ad84-c4ccee454361" />
+
+
+
 Deep dive into stress, burnout, and work-life balance
-
-
-
-
 Burnout Risk Category (Low / Medium / High) — Donut chart
 Average Stress Level by Job Role — Bar chart
 Sleep Hours vs Work Hours — Scatter plot
