@@ -70,13 +70,19 @@ Work Life Balance Rating — Bar chart
 
 
 
+
 Page 3 — Layoff Risk & Job Security
 
 
+
+<img width="1397" height="793" alt="Image" src="https://github.com/user-attachments/assets/21d30d57-88a8-452f-bdb5-39b01e59d7ca" />
+
+
+
+
+
+
 Who is at risk and how are they responding?
-
-
-
 
 High Layoff Risk Count by Company Type — Bar chart
 AI Replacement Fear Score — Bar chart
