@@ -96,10 +96,15 @@ Likely to Switch Job Breakdown — Donut chart
 Page 4 — Skills & Productivity
 
 
+
+
+<img width="1393" height="811" alt="Image" src="https://github.com/user-attachments/assets/d10ac390-6a7d-43fa-9dcf-63e6f5756c2f" />
+
+
+
+
+
 How developers are upskilling amid uncertainty
-
-
-
 
 Primary Language Distribution — Bar chart
 AI Tools Usage Hours by Role — Bar chart
